@@ -1,6 +1,5 @@
-# CLIENTES-MOROSOS
+
 AVISO SUSPENSION DE SERVICIO
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -56,9 +55,7 @@ border-radius:6px;
 
 <h2>Pit Comunicaciones</h2>
 
-<a class="whatsapp" href="https://wa.me/529341109645">
-Contactar por WhatsApp
-</a>
+Contactar por WhatsApp 9341109645
 
 </div>
 
